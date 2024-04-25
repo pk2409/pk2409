@@ -12,4 +12,4 @@ Here are some ideas to get you started:-->
 
 <!---[![GitHub Streak](https://streak-stats.demolab.com/?user=pk2409)](https://git.io/streak-stats)-->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pk2409&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pk2409&theme=dark&count_private=true)](https://git.io/streak-stats)
