@@ -21,5 +21,5 @@ Here are some ideas to get you started:-->
 
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pk2409&" alt="pk2409" /></p>-->
-![pk2409's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pk2409&theme=midnight-purple&hide_border=false&include_all_commits=true)
+![pk2409's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pk2409&theme=midnight-purple&hide_border=false&include_all_commits=true&include_private=true)
 ![pk2409's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pk2409&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
