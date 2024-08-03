@@ -16,9 +16,9 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on **a machine learning project**
 
 <h3 align="left">Connect with me:</h3>
-[[LinkedIn](https://www.linkedin.com/in/prisha-kandhari/)]
+<!-- [[LinkedIn](https://www.linkedin.com/in/prisha-kandhari/)]
 [Medium](https://medium.com/@pkandhari24)
-
+ -->
 <p align="left">
 </p>
 
